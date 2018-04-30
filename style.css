@@ -50,5 +50,27 @@ main a h1:hover {
     color: aliceblue;
 }
 
+a {
+	text-decoration: none;
+}
 
+/* unvisited link */
+a:link {
+    color: #f04040;
+}
+
+/* visited link */
+a:visited {
+    color: #f04040;
+}
+
+/* mouse over link */
+a:hover {
+    color: #641203;
+}
+
+/* selected link */
+a:active {
+    color: #f04040;
+}
 
