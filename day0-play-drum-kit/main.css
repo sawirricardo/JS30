@@ -1,0 +1,68 @@
+/* Start Here  ---------------------------------*/
+html {
+	background-image: url(https://images.unsplash.com/photo-1506271955088-88204c99e99a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2851cef65dc12b1ec9f5bf6272663372&auto=format&fit=crop&w=1350&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100%;
+	background-position: center;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+ 	font-family: 'Roboto Mono', monospace;
+	font-size: 10px;
+}
+
+.keys {
+	display: flex;
+	margin-bottom: 5em;
+	align-items: center;
+	justify-content: center;
+}
+
+
+.key {
+	border: .4rem solid white;
+	border-radius: .5rem;
+	margin: 1rem;
+	padding: 1rem .5rem;
+	font-size: 1.5rem;
+	transition: all .7s ease;
+	width: 10rem;
+	text-align: center;
+	color: white;
+	text-shadow: 0, 0, .5rem #ffc600;
+}
+
+.playing {
+	transform: scale(1.1);
+	border-color: #ffc600;
+	box-shadow: 0 0 1rem #ffc600;
+}
+
+kbd {
+	display: block;
+	font-size: 4rem;
+}
+
+.sound {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #ffc600;
+}
+
+footer {
+	color: white;
+	text-align: center;
+	font-size: 2em;
+}
+
+header {
+	position: relative;
+	color: white;
+	text-align: center;
+	font-size: 3em;
+	margin-top: 5em;
+}
