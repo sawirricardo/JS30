@@ -1,37 +1,39 @@
-I am doing Javascript 30 days challenge!
+# JS30
 
-I will record my progress on this challenge day by day.
-You're welcome to see the source code.
+### I am doing Javascript 30 days challenge!
 
-day0 - drumkit vanilla JS - Completed
-day1 - clockjs - Completed
-day2 - CSS Variables - Completed
-day3 - Array Cardio Day 1 - Completed
-day4 - Flex Panel Gallery - On Progress
-day5 - Type Ahead - On Progress
-day6 - Array Cardio Day 2 - On Progress
-day7 - Fun with HTML5 Canvas - On Progress
-day8 - Dev Tools Domination - On Progress
-day9 - Hold Shift and Check Checkbox... - On Progress
-day10 - Custom Video Player - On Progress
-day11 - Key Sequence Detection - On Progress
-day12 - Slide in on Scroll - On Progress
-day13 - JavaScript References VS Copying - On Progress
-day14 - LocalStorage - On Progress
-day15 - Mouse Move Shadow - On Progress
-day16 - Sort Without Articles - On Progress
-day17 - Adding Up Times With Reduce - On Progress
-day18 - Webcam Fun - On Progress
-day19 - Speech Detection - On Progress
-day20 - Geolocation - On Progress
-day21 - Follow Along Link Highlighter - On Progress
-day22 - Speech Synthesis - On Progress
-day23 - Sticky Nav - On Progress
-day24 - Event Capture, Propagation, Bubbling , and Once - On Progress
-day25 - Stripe Follow Along Nav - On Progress
-day26 - Click and Drag - On Progress
-day27 - Video Speed Controller - On Progress
-day28 - Countdown Timer - On Progress
-day29 - Whack a Mole - On Progress
+I will record my progress on this repo day by day.
 
-This project is inspired by javascript30.com by Wesbos.
+
+- [x] [day0 - drumkit vanilla JS](https://sawirricardo.github.io/JS30/day0-play-drum-kit/index.html) [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day0-play-drum-kit)
+- [x] [day1 - clockjs](https://sawirricardo.github.io/JS30/day1-clockjs/index.html) [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day1-clockjs)
+- [x] [day2 - CSS Variables](https://sawirricardo.github.io/JS30/day2%20-%20CSS%20Variables/index.html) [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day2%20-%20CSS%20Variables)
+- [x] day3 - Array Cardio Day 1 [Only source code](https://github.com/sawirricardo/JS30/blob/gh-pages/day3%20-%20Array%20Cardio%20Day%201/main.js)
+- [ ] day4 - Flex Panel Gallery
+- [ ] day5 - Type Ahead
+- [ ] day6 - Array Cardio Day 2
+- [ ] day7 - Fun with HTML5 Canvas
+- [ ] day8 - Dev Tools Domination
+- [ ] day9 - Hold Shift and Check Checkbox...
+- [ ] day10 - Custom Video Player
+- [ ] day11 - Key Sequence Detection
+- [ ] day12 - Slide in on Scroll
+- [ ] day13 - JavaScript References VS Copying
+- [ ] day14 - LocalStorage
+- [ ] day15 - Mouse Move Shadow
+- [ ] day16 - Sort Without Articles
+- [ ] day17 - Adding Up Times With Reduce
+- [ ] day18 - Webcam Fun
+- [ ] day19 - Speech Detection
+- [ ] day20 - Geolocation
+- [ ] day21 - Follow Along Link Highlighter
+- [ ] day22 - Speech Synthesis
+- [ ] day23 - Sticky Nav
+- [ ] day24 - Event Capture, Propagation, and Bubbling
+- [ ] day25 - Stripe Follow Along Nav
+- [ ] day26 - Click and Drag
+- [ ] day27 - Video Speed Controller
+- [ ] day28 - Countdown Timer
+- [ ] day29 - Whack a Mole
+
+This project is inspired by [javascript30](https://javascript30.com/) by [Wesbos](https://github.com/wesbos/JavaScript30).
