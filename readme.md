@@ -6,7 +6,7 @@ You're welcome to see the source code.
 day0 - drumkit vanilla JS - Completed
 day1 - clockjs - Completed
 day2 - CSS Variables - Completed
-day3 - Array Cardio Day 1 - On Progress
+day3 - Array Cardio Day 1 - Completed
 day4 - Flex Panel Gallery - On Progress
 day5 - Type Ahead - On Progress
 day6 - Array Cardio Day 2 - On Progress
