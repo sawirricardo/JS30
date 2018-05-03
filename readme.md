@@ -5,11 +5,11 @@
 I will record my progress on this repo day by day.
 
 
-- [x] [day0 - drumkit vanilla JS](https://sawirricardo.github.io/JS30/day0-play-drum-kit/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day0-play-drum-kit)
-- [x] [day1 - clockjs](https://sawirricardo.github.io/JS30/day1-clockjs/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day1-clockjs)
-- [x] [day2 - CSS Variables](https://sawirricardo.github.io/JS30/day2%20-%20CSS%20Variables/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day2%20-%20CSS%20Variables)
+- [x] day0 - [drumkit vanilla JS](https://sawirricardo.github.io/JS30/day0-play-drum-kit/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day0-play-drum-kit)
+- [x] day1 - [clockjs](https://sawirricardo.github.io/JS30/day1-clockjs/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day1-clockjs)
+- [x] day2 - [CSS Variables](https://sawirricardo.github.io/JS30/day2%20-%20CSS%20Variables/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day2%20-%20CSS%20Variables)
 - [x] day3 - Array Cardio Day 1 - [Only source code](https://github.com/sawirricardo/JS30/blob/gh-pages/day3%20-%20Array%20Cardio%20Day%201/main.js)
-- [ ] day4 - Flex Panel Gallery
+- [x] day4 - [Flex Panel Gallery](https://sawirricardo.github.io/JS30/day4%20-%20Flex%20Panel%20Gallery/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day4%20-%20Flex%20Panel%20Gallery)
 - [ ] day5 - Type Ahead
 - [ ] day6 - Array Cardio Day 2
 - [ ] day7 - Fun with HTML5 Canvas
