@@ -10,7 +10,7 @@ I will record my progress on this repo day by day.
 - [x] day2 - [CSS Variables](https://sawirricardo.github.io/JS30/day2%20-%20CSS%20Variables/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day2%20-%20CSS%20Variables)
 - [x] day3 - Array Cardio Day 1 - [Only source code](https://github.com/sawirricardo/JS30/blob/gh-pages/day3%20-%20Array%20Cardio%20Day%201/main.js)
 - [x] day4 - [Flex Panel Gallery](https://sawirricardo.github.io/JS30/day4%20-%20Flex%20Panel%20Gallery/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day4%20-%20Flex%20Panel%20Gallery)
-- [ ] day5 - Type Ahead
+- [x] day5 - [Type Ahead](https://sawirricardo.github.io/JS30/day5%20-%20Type%20Ahead/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day5%20-%20Type%20Ahead)
 - [ ] day6 - Array Cardio Day 2
 - [ ] day7 - Fun with HTML5 Canvas
 - [ ] day8 - Dev Tools Domination
