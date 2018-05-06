@@ -9,10 +9,25 @@
     <style>
         html, body {
             margin: 0;
+            font-family: monospace;
+        }
+
+        div {
+            position: absolute;
+            top:5%;
+            left: 50%;
+            width: 400;
+            margin: 0 auto;
+        }
+        div>h1 {
+            position: relative;
+            left: -50%;
+            text-align: center;
         }
     </style>
 </head>
 <body>
+    <div><h1>Try to click on this white space</h1></div>
     <canvas id="draw" width="800" height="800"></canvas>
     
     <script>
