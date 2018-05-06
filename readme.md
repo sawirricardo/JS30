@@ -12,7 +12,7 @@ I will record my progress on this repo day by day.
 - [x] day4 - [Flex Panel Gallery](https://sawirricardo.github.io/JS30/day4%20-%20Flex%20Panel%20Gallery/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day4%20-%20Flex%20Panel%20Gallery)
 - [x] day5 - [Type Ahead](https://sawirricardo.github.io/JS30/day5%20-%20Type%20Ahead/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day5%20-%20Type%20Ahead)
 - [x] day6 - Array Cardio Day 2 - [only source code](https://github.com/sawirricardo/JS30/blob/gh-pages/day6%20-%20Array%20Cardio%20Day%202/script.js)
-- [ ] day7 - Fun with HTML5 Canvas
+- [x] day7 - [Fun with HTML5 Canvas]
 - [ ] day8 - Dev Tools Domination
 - [ ] day9 - Hold Shift and Check Checkbox...
 - [ ] day10 - Custom Video Player
