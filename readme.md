@@ -13,8 +13,8 @@ I will record my progress on this repo day by day.
 - [x] day5 - [Type Ahead](https://sawirricardo.github.io/JS30/day5%20-%20Type%20Ahead/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day5%20-%20Type%20Ahead)
 - [x] day6 - Array Cardio Day 2 - [only source code](https://github.com/sawirricardo/JS30/blob/gh-pages/day6%20-%20Array%20Cardio%20Day%202/script.js)
 - [x] day7 - [Fun with HTML5 Canvas](https://sawirricardo.github.io/JS30/day7%20-%20Fun%20with%20HTML5%20Canvas/index.html) - [source code](https://github.com/sawirricardo/JS30/blob/gh-pages/day7%20-%20Fun%20with%20HTML5%20Canvas/index.html)
-- [x] day8 - Dev Tools Domination [only source code](https://github.com/sawirricardo/JS30/blob/gh-pages/day8%20-%20Dev%20Tools%20Domination/index.html)
-- [ ] day9 - Hold Shift and Check Checkbox...
+- [x] day8 - Dev Tools Domination - [only source code](https://github.com/sawirricardo/JS30/blob/gh-pages/day8%20-%20Dev%20Tools%20Domination/index.html)
+- [x] day9 - [Hold Shift and Check Checkbox...](https://sawirricardo.github.io/JS30/day9%20-%20Hold%20Shift%20and%20Check%20Checkboxes/) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day9%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 - [ ] day10 - Custom Video Player
 - [ ] day11 - Key Sequence Detection
 - [ ] day12 - Slide in on Scroll
