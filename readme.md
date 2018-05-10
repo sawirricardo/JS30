@@ -16,7 +16,7 @@ I will record my progress on this repo day by day.
 - [x] day8 - Dev Tools Domination - [only source code](https://github.com/sawirricardo/JS30/blob/gh-pages/day8%20-%20Dev%20Tools%20Domination/index.html)
 - [x] day9 - [Hold Shift and Check Checkbox...](https://sawirricardo.github.io/JS30/day9%20-%20Hold%20Shift%20and%20Check%20Checkboxes/) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day9%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 - [x] day10 - [Custom Video Player](https://sawirricardo.github.io/JS30/day10%20-%20Custom%20Video%20Player/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/day10%20-%20Custom%20Video%20Player)
-- [ ] day11 - Key Sequence Detection
+- [x] day11 - [Key Sequence Detection](https://sawirricardo.github.io/JS30/12.%20day11%20-%20Key%20Sequence%20Detection/index.html) - [source code](https://github.com/sawirricardo/JS30/blob/gh-pages/12.%20day11%20-%20Key%20Sequence%20Detection/index.html)
 - [ ] day12 - Slide in on Scroll
 - [ ] day13 - JavaScript References VS Copying
 - [ ] day14 - LocalStorage
