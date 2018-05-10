@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Key Detection</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+</head>
+<body>
+    
+    <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
+
+    <script>
+        const pressed =[];
+        const secretCode = 'ricardo';
+
+        window.addEventListener('keyup', (e) => {
+            console.log(e.key);
+            pressed.push(e.key);
+            pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
+            if(pressed.join('').includes(secretCode)) {
+                console.log('DING DING!');
+                cornify_add();
+            };
+            console.log(pressed);
+        });
+    </script>
+</body>
+</html>
