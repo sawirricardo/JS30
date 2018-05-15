@@ -19,7 +19,7 @@ I will record my progress on this repo day by day.
 - [x] day11 - [Key Sequence Detection](https://sawirricardo.github.io/JS30/12.%20day11%20-%20Key%20Sequence%20Detection/index.html) - [source code](https://github.com/sawirricardo/JS30/blob/gh-pages/12.%20day11%20-%20Key%20Sequence%20Detection/index.html)
 - [x] day12 - [Slide in on Scroll](https://sawirricardo.github.io/JS30/13.%20day12%20-%20Slide%20in%20on%20Scroll/index.html) - [source code](https://github.com/sawirricardo/JS30/blob/gh-pages/13.%20day12%20-%20Slide%20in%20on%20Scroll/index.html)
 - [x] day13 - JavaScript References VS Copying - [source code](https://github.com/sawirricardo/JS30/blob/gh-pages/14.%20day13%20-%20Reference%20VS%20Copy/index.html)
-- [ ] day14 - LocalStorage
+- [x] day14 - [LocalStorage](https://sawirricardo.github.io/JS30/15.%20%20day14%20-%20LocalStorage%20and%20Event%20Delegation/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/15.%20%20day14%20-%20LocalStorage%20and%20Event%20Delegation)
 - [ ] day15 - Mouse Move Shadow
 - [ ] day16 - Sort Without Articles
 - [ ] day17 - Adding Up Times With Reduce
