@@ -21,7 +21,7 @@ I will record my progress on this repo day by day.
 - [x] day13 - JavaScript References VS Copying - [source code](https://github.com/sawirricardo/JS30/blob/gh-pages/14.%20day13%20-%20Reference%20VS%20Copy/index.html)
 - [x] day14 - [LocalStorage](https://sawirricardo.github.io/JS30/15.%20%20day14%20-%20LocalStorage%20and%20Event%20Delegation/index.html) - [source code](https://github.com/sawirricardo/JS30/tree/gh-pages/15.%20%20day14%20-%20LocalStorage%20and%20Event%20Delegation)
 - [x] day15 - [Mouse Move Shadow](https://sawirricardo.github.io/JS30/16.%20day15%20-%20Mouse%20Move%20Shadow/index.html) - [source code](https://github.com/sawirricardo/JS30/blob/gh-pages/16.%20day15%20-%20Mouse%20Move%20Shadow/index.html)
-- [ ] day16 - Sort Without Articles
+- [x] day16 - [Sort Without Articles](https://sawirricardo.github.io/JS30/17.%20day16%20-%20Sort%20Without%20Articles/index.html) - [source code](https://github.com/sawirricardo/JS30/blob/gh-pages/17.%20day16%20-%20Sort%20Without%20Articles/index.html)
 - [ ] day17 - Adding Up Times With Reduce
 - [ ] day18 - Webcam Fun
 - [ ] day19 - Speech Detection
